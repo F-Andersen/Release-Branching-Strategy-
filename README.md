@@ -42,3 +42,5 @@ This document outlines the **Release Branching Strategy** for the project. It en
    git checkout develop
    git checkout -b feature/{feature-name}
 "
+
+/
